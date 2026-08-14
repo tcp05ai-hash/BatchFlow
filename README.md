@@ -2,6 +2,8 @@
 
 > Console service สำหรับดึงข้อมูลจาก HOSxP → staging DB → ส่ง MOPH API (ทำงาน 24/7)
 
+![BatchFlow Screenshot](screenshot.png)
+
 ---
 
 ## หลักการทำงาน
